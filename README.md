@@ -1,0 +1,1 @@
+ACF for different $\mu$, $\alpha$ and $\lambda=p\kappa\mu$ ($\kappa=1$).
